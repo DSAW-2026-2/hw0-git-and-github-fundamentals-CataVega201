@@ -1,7 +1,3 @@
-# GitHub Assignment
-
-## Student Information
-
 **Name:** Your Full Name
 
 **GitHub Profile:** https://github.com/CataVega201
